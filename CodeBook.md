@@ -9,10 +9,13 @@ Attribute Information:
 
 For each record in the dataset it is provided: 
 - A 561-feature vector with time and frequency domain variables. 
-- Its activity label. 
-- An identifier of the subject who carried out the experiment.
+- Its activity label (1:6)
+- An identifier of the subject who carried out the experiment (1:30)
+- 
 
 
-The following steps were taken to obtain the final variables and dataset:
 
-more to come....
+
+
+
+
