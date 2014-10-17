@@ -14,3 +14,11 @@ UCI HAR Dataset),and then:
   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 * 2- CodeBook.md contains details on the variables and the transformations performed.
+
+
+The code works like this....
+
+* Reads the features names from file features.txt
+* Reads activity codes from file activity_labels.txt
+* Reads Training Dataset (Read from 3 different files into 3 data frames: subject_train.txt (code for the individual who participated in the study), y_train.txt (code for the activity level) and X_train (data collected in the analysis)
+* 
