@@ -1,7 +1,7 @@
-TidyData
+#TidyData
 ========
 
-Tidy Data Project - Data Science (Getting and Cleaning Data)
+##Tidy Data Project - Data Science (Getting and Cleaning Data)
 This repo contains 2 files:
 1- run_analysis.R is a script that will read data in the current working directory (All data is in a directory called 
 UCI HAR Dataset),and then:
