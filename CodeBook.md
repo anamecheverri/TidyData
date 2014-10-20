@@ -24,7 +24,9 @@ Activities: 6 levels of activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIR
 86 features:
 
 tBodyAcc-mean()-X
+
 tBodyAcc-mean()-Y
+
 tBodyAcc-mean()-Z
 tGravityAcc-mean()-X
 tGravityAcc-mean()-Y
